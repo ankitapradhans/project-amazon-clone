@@ -1,4 +1,4 @@
 # project-amazon-clone
-this is my first repositrory.
+Amazon
 <br>
 author-ankita pradhan
